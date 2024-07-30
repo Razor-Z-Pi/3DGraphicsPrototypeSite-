@@ -9,7 +9,7 @@ npm install --save three
 npm install --save-dev vite
 ```
 
-# Start Vire
+# Start Vite
 ```{npx}
 npx vite
 ```
